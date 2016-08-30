@@ -3,7 +3,9 @@
   "longName": "Common errors for Node.js",
   "version": "1.0.0",
 
-  "dependencies": { },
+  "dependencies": {
+    "elv": "^1.0.0"
+  },
   "devDependencies": {
     "chai": "~3.5.0",
     "istanbul": "~0.4.2",
