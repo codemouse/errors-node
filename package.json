@@ -1,15 +1,15 @@
 {
   "name": "errors",
   "longName": "Common errors for Node.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "dependencies": {
-    "elv": "^1.0.0"
+    "elv": "^1.0.1"
   },
   "devDependencies": {
     "chai": "~3.5.0",
-    "istanbul": "~0.4.2",
-    "mocha": "~2.4.5"
+    "istanbul": "~0.4.5",
+    "mocha": "~3.1.2"
   },
   "keywords": [
     "errors"
@@ -19,7 +19,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/cybricio/errors-node"
+    "url": "https://github.com/codemouse/errors-node"
   },
   "scripts": {
     "lint": "eslint ./**/*.js",
