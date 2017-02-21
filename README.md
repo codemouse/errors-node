@@ -7,7 +7,7 @@ Common errors for your Node.js app.  These errors are designed to be used in any
 Simply reference this module in the `dependencies` key of your `package.json` file...
 
 ```json
-"errors": "git@github.com:cybric/errors-node.git"
+"errors": "git@github.com:codemouse/errors-node.git"
 ```
 
 ...and go to town...
